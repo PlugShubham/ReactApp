@@ -1,3 +1,3 @@
 # ReactApp
 This is react Template.
-T
+Use Chrome Browser for best experience.
